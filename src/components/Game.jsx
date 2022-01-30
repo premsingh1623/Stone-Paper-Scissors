@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
-import styles from './Game.module.scss';
+import './Game.module.scss';
 
 
 function Game() {
